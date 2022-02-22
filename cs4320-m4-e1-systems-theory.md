@@ -1,7 +1,6 @@
 # CS4320 Exercise 4.1 Systems Theory
 
-CS4320 - Section 01, taught by Dr. Sean P. Goggins at the University of Missouri
-Spring Semester 2022
+CS4320 - Section 01, taught by Dr. Sean P. Goggins at the University of Missouri, Spring Semester 2022
 
 The "Ethical Quandry" grid presents several possible ethical issues related to the public case of "A retailer selling your personal information to others for profit".
 The individual systems it looks at are Retailer, E-commerce, Retail Industry, Big Tech Data Market, Economy, Internet Advertising, Retail Customers, Cybersecurity, Financial, and Legal. 
